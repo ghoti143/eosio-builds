@@ -16,4 +16,6 @@ It does include header and library files, unlike most Debian packages that don't
 ## Uninstall
 ```apt remove eos``` works to remove it from your system if you need to.
 
+---
+
 ht @jgiszczak

@@ -3,8 +3,8 @@
 ## Download and install
 
 ```
-wget https://github.com/ghoti143/eosio-builds/raw/master/eos-DAWN-2018-01-25-Linux.deb
-sudo dpkg -i eos-DAWN-2018-01-25-Linux.deb
+wget https://github.com/ghoti143/eosio-builds/raw/master/EOS.IO-DAWN-2018-01-25-ALPHA-Linux.deb
+sudo dpkg -i EOS.IO-DAWN-2018-01-25-ALPHA-Linux.deb
 ```
 
 ## Notes

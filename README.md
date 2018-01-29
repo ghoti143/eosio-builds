@@ -13,7 +13,7 @@ It puts all the contract skeleton files into /usr/share/skeleton for you, so eos
 
 It does include header and library files, unlike most Debian packages that don't have -dev in the name.
 
-(Thanks, @jgiszczak)
-
 ## Uninstall
 ```apt remove eos``` works to remove it from your system if you need to.
+
+ht @jgiszczak
